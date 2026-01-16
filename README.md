@@ -1,2 +1,17 @@
-Created  guessing game using cargo new guessing_game
-when you do cargo run,you enter the number you want it to guess and on hitttin enter, it displays your number.
+Rust guessing game created using Cargo.
+
+How it Works
+
+The project was created with cargo new guessing_game.
+
+When you run the program, it prompts you to enter a number.
+
+After typing your number and pressing Enter, the program reads your input and displays the number you entered.
+
+Running the Project
+
+Make sure you have Rust installed, then run:
+
+cargo run
+
+Follow the prompt in the terminal to enter a number.
